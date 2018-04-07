@@ -1,6 +1,8 @@
 # サイコロアニメーション
 
-作者：若草春男[本名：廣瀬佳典](haruowakakusa@gmail.com)
+作者：若草春男[本名：廣瀬佳典]
+
+メールアドレス：haruowakakusa@gmail.com
 
 ## 概要
 
